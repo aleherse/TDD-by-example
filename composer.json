@@ -1,0 +1,12 @@
+{
+    "require-dev": {
+        "phpspec/phpspec2": "*",
+        "phpspec/php-diff": "*@dev",
+        "bossa/phpspec2-expect": "*@dev"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {"psr-0": {"": "src"}},
+    "minimum-stability": "dev"
+}
