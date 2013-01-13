@@ -2,7 +2,6 @@
 
 namespace Chapter06;
 
-require_once(__DIR__.'/../../vendor/autoload.php');
 
 class MoneyTest extends \PHPUnit_Framework_TestCase
 {

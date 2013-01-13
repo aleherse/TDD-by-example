@@ -1,6 +1,6 @@
 <?php
 
-namespace Chapter08;
+namespace Chapter09;
 
 class FrancTest extends \PHPUnit_Framework_TestCase
 {
