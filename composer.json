@@ -1,3 +1,6 @@
 {
+    "require" : {
+        "symfony/console": "2.1.*@dev"
+    },
     "autoload": {"psr-0": {"": "src"}}
 }
