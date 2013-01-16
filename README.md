@@ -10,7 +10,7 @@ To run the tests you need to have PHPUnit installed and execute this command:
 
     > phpunit
 
-## Part II: The xUnit Example (chapter 18 to 24)
+## Part II: The xUnit Example (chapter 18 to 23)
 
 An example of testing more complicated logic, including reflection and exceptions, by developing a framework for automated testing.
 
